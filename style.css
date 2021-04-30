@@ -1,0 +1,32 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+h1{
+    font-family: 'Langar', cursive;
+    font-size: 80px;
+    color: black;
+}
+.div1{
+    font-family: 'Big Shoulders Stencil Text', cursive;
+    font-family: 'Langar', cursive;
+    font-size: 40px;  
+    color: blue;
+}
+input{
+    width: 300px;
+    height: 50px;
+    border-radius: 75px;
+    background-color: rgba(17, 17, 17, 0.712);
+    color: aliceblue;
+    font-size: 20px;
+}
+p{
+    color: aliceblue;
+}
+#btn1{
+    width: 100px;
+    height: 40px;
+    font-weight: 600;
+}
